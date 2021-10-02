@@ -1,6 +1,6 @@
 # Cardiac arrhythmia simulator 
 
-in this folder you have the files:
+In this folder you have the files:
 
 ### database
 files in .mat format that are used to create the database which are extracted from different physionet repositories mainly from BIH.
