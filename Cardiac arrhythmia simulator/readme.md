@@ -3,7 +3,8 @@
 in this folder you have the files:
 
 ###database
-files in .mat format that are used to create the database which are extracted from different physionet repositories mainly from BIH.
+files in .mat format that are used to create the database which are extracted from different physionet repositories mainly from BIH.\n
+
 ###Codsignals
 It is a file which is used to concatenate the databases with the help of the algorithms presented, where the times are chosen manually by observing the ECG graph in order to choose the best portion of the tracing.
 ###IGPY
