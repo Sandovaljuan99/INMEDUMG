@@ -1,7 +1,8 @@
-Esta carpeta contiene las bases de datos (no las usadas en el articulo: ...), y contiene 3 programas
+***This folder contains the databases (not the ones used in the article: ...), and 3 programs***
 
-# modificarMats: 
-Se usa para colocar una matriz de 1D en una matriz de 2D la cual cuenta con ventanas y datos
-# Juntar: 
-Se concatenan todas las bases de datos para crear el dataset
-# red: Ejemplo de aplicación de la red neuronal implementada en el articulo
+## ModifyMats
+Used to place a 1D matrix in a 2D matrix which has windows and data.
+### Join
+It concatenates all the databases to create the dataset.
+### Network
+Example of application of the neural network implemented in the article.
